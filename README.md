@@ -4,6 +4,9 @@ Segmentez des clients d'un site e-commerce
 
 # Segmentation des Clients - Projet Olist
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DS_projet5.PNG) 
 ## Contexte
 
 Je suis consultant pour **Olist**, une entreprise brésilienne qui offre une solution de vente sur les marketplaces en ligne. Olist cherche à améliorer sa stratégie marketing en segmentant ses clients. Mon objectif est de fournir une segmentation client actionable qui pourra être utilisée pour les campagnes de communication, le suivi des clients et l’amélioration de l’expérience utilisateur.
